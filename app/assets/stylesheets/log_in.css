@@ -9,7 +9,22 @@
                                     support rgba */
   background: rgba(54, 25, 25, .5);
 
-	padding: 5px 20px 13px;
+	padding: 5px 30px 13px;
 	margin-top: 15px;
 	border-radius: 10px;
 }
+
+.log_link {
+	margin: 8px 0; 
+}
+.log_link a {
+	color: #E0E0E0;
+	margin: 8px;
+	text-decoration: underline;
+	font-size: 16px;
+}
+
+.log_link a:hover {
+	color: white;
+} 
+
