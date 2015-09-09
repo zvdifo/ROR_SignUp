@@ -1,0 +1,15 @@
+.container {
+	background: url(cloud.jpg) center no-repeat;
+}
+.log_in {
+	color: #E0E0E0;
+	width: 40%;
+	margin: auto;
+  background: rgb(54, 25, 25); /* Fall-back for browsers that don't
+                                    support rgba */
+  background: rgba(54, 25, 25, .5);
+
+	padding: 5px 20px 13px;
+	margin-top: 15px;
+	border-radius: 10px;
+}
